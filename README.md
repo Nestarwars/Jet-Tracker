@@ -28,6 +28,10 @@ Les données utilisées sont celles du réseau OpenSky Network.
 	- Module JSON
 
 	- OpenSky Python API
+	
+## Avertissement
+
+Pour fonctionner correctement, vous devez disposer d'un compte OpenSkyAPI, et entrer les credentials dans le fichier `link.py` aux lignes 18 et 47.
 
 # Mentions :
 
