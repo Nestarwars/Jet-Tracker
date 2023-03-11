@@ -36,3 +36,5 @@ Pour fonctionner correctement, vous devez disposer d'un compte OpenSkyAPI, et en
 # Mentions :
 
 Développé sur Visual Studio Code, en utilisant les APIs Python et REST de OpenSkyNetwork.
+Les bases de données utilisées sont fournies par le réseau OpenSkyNetwork et sont utilisées dans le cadre d'un travail étudiant. Elles ne doivent en aucun cas être extraites de ce repo ou réutilisées sans demande à OpenSkyNetwork. 
+La licence attachée ici ne concerne que le code produit par Nestor Laborier (les fichiers `.py`).
