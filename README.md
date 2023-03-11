@@ -37,7 +37,7 @@ En raison des limites de taille de GitHub, il manque également une DB des avion
 
 Une fois les credentials remplis, et la database téléchargée, il vous suffit de lancer le fichier `graphics.py`.
 
-## Mentions :
+## Mentions
 
 Développé sur Visual Studio Code, en utilisant les APIs Python et REST de OpenSkyNetwork.
 Les bases de données utilisées sont fournies par le réseau OpenSkyNetwork et sont utilisées dans le cadre d'un travail étudiant. Elles ne doivent en aucun cas être extraites de ce repo ou réutilisées sans demande à OpenSkyNetwork. 
