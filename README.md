@@ -1,8 +1,8 @@
 # JetTracker
 
-## Nestor Laborier
+#### Nestor Laborier
 
-### Dec 2022
+##### Dec 2022
 
 Jet Tracker est une application Python pour le suivi des jets privés dans le monde, et le calcul d'équivalent CO2 de leur route.
 Les données utilisées sont celles du réseau OpenSky Network.
