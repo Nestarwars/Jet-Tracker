@@ -1,6 +1,6 @@
 # JetTracker
 
-#### Nestor Laborier - Dec 2022
+### Nestor Laborier - Dec 2022
 
 Jet Tracker est une application Python pour le suivi des jets privés dans le monde, et le calcul d'équivalent CO2 de leur route.
 Les données utilisées sont celles du réseau OpenSky Network.
@@ -27,13 +27,13 @@ Les données utilisées sont celles du réseau OpenSky Network.
 
 	- OpenSky Python API
 	
-### Installation
+## Installation
 
 Pour fonctionner correctement, vous devez disposer d'un compte OpenSkyAPI, et entrer les credentials dans le fichier `link.py` aux lignes 18 et 47.
 
 En raison des limites de taille de GitHub, il manque également une DB des avions dans le dossier `planeDB`. Vous devez télécharger la base `aircraftDatabase-2022-11.csv` sur l'OpenSkyNetwork ([Téléchargez ici](https://opensky-network.org/datasets/metadata/aircraftDatabase-2022-11.csv)) et la mettre dans dans le dossier `planeDB`.
 
-### Lancement
+## Lancement
 
 Une fois les credentials remplis, et la database téléchargée, il vous suffit de lancer le fichier `graphics.py`.
 
